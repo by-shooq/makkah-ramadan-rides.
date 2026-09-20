@@ -137,25 +137,18 @@ python src/feature_engineering.py
 السكربت يستخدم seed ثابت، فالأعمدة المُحاكاة قابلة لإعادة الإنتاج.
 
 ---
+## 👥 Team
 
-## 👥 فريق العمل
-
-| الاسم | LinkedIn | GitHub |
-|---|---|---|
-| شوق ناصر البقمي | [رابط] | [رابط] |
-| آية عبدالله الحارثي | [رابط] | [رابط] |
-| رتال عبدالرحمن اللهيبي | [رابط] | [رابط] |
-| ليان محمد الزهراني | [رابط] | [رابط] |
-
-## 🔗 روابط
+| Name |
+|---|
+| Shouq Nasser Al-Baqami |
+| Aya Abdullah Al-Harthi |
+| Rital Abdulrahman Al-Luhaibi | 
+| Layan Mohammed Al-Zahrani |
+## 🔗 Links
 
 - 📑 [العرض التقديمي](presentation.pdf)
 
+- (https://x.com/by_shooq/status/2050665660766650570?s=20)
 
-
-## 🙏 المصدر والرخصة
-
-- البيانات الأصلية: Uber & Lyft Dataset (Boston, MA) على Kaggle — [أضيفوا الرابط الرسمي واسم صاحب الداتاسيت]
-- رخصة الكود: MIT (انظر ملف `LICENSE`)
-
-</div>
+- Original data: Uber & Lyft Dataset (Boston, MA) on Kaggle — (https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices?resource=download)
