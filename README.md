@@ -145,5 +145,7 @@ The script uses a fixed random seed, so the simulated columns are reproducible.
 ## 🔗 Links
 
 - 📑 [Presentation](presentation.pdf)
-(https://x.com/by_shooq/status/2050665660766650570?s=20)
+
+- (https://x.com/by_shooq/status/2050665660766650570?s=20)
+
 - Original data: Uber & Lyft Dataset (Boston, MA) on Kaggle — (https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices?resource=download)
