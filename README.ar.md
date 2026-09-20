@@ -149,8 +149,9 @@ python src/feature_engineering.py
 
 ## 🔗 روابط
 
-- 📑 [العرض التقديمي](docs/presentation.pdf)
-- 📈 [الداشبورد التفاعلي]([رابط الداشبورد])
+- 📑 [العرض التقديمي](presentation.pdf)
+
+
 
 ## 🙏 المصدر والرخصة
 
