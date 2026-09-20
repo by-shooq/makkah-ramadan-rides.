@@ -145,7 +145,7 @@ The script uses a fixed random seed, so the simulated columns are reproducible.
 
 ## 🔗 Links
 
-- 📑 [Presentation](docs/presentation.pdf)
+- 📑 [Presentation](presentation.pdf)
 
 
 ## 🙏 Credits & License
