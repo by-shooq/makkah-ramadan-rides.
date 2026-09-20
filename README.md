@@ -136,8 +136,8 @@ The script uses a fixed random seed, so the simulated columns are reproducible.
 
 ## 👥 Team
 
-| Name | LinkedIn | GitHub |
-|---|---|---|
+| Name |
+|---|
 | Shouq Nasser Al-Baqami |
 | Aya Abdullah Al-Harthi |
 | Rital Abdulrahman Al-Luhaibi | 
