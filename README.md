@@ -2,7 +2,7 @@
 
 🌐 **English** | [العربية](README.ar.md)
 
-🏆 **1st Place — [Data Bootcamp name / organizer]**
+🏆 **1st Place — [Data camp  / Umm Al-Qura University ]**
 
 > Data analysis and demand forecasting for ride-sharing in Makkah during Ramadan, identifying when and where demand peaks and proposing **proactive fleet redistribution without adding a single vehicle**.
 
@@ -138,11 +138,10 @@ The script uses a fixed random seed, so the simulated columns are reproducible.
 
 | Name | LinkedIn | GitHub |
 |---|---|---|
-| Shouq Nasser Al-Buqami | [link] | [link] |
-| Aya Abdullah Al-Harthi | [link] | [link] |
-| Rital Abdulrahman Al-Luhaibi | [link] | [link] |
-| Layan Mohammed Al-Zahrani | [link] | [link] |
-
+| Shouq Nasser Al-Baqami |
+| Aya Abdullah Al-Harthi |
+| Rital Abdulrahman Al-Luhaibi | 
+| Layan Mohammed Al-Zahrani |
 ## 🔗 Links
 
 - 📑 [Presentation](presentation.pdf)
@@ -150,5 +149,5 @@ The script uses a fixed random seed, so the simulated columns are reproducible.
 
 ## 🙏 Credits & License
 
-- Original data: Uber & Lyft Dataset (Boston, MA) on Kaggle — [add official link and author]
-- Code license: MIT (see `LICENSE`)
+- Original data: Uber & Lyft Dataset (Boston, MA) on Kaggle — (https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices?resource=download)
+- Code license: MIT see (`LICENSE`)
